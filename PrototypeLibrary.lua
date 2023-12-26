@@ -178,7 +178,7 @@ TogButton.BackgroundTransparency = 1
 TogButton.Size = UDim2.new(0, 60, 0, 30)
 TogButton.Text = "OFF ❌"
 TogButton.Position = UDim2.new(1, 0, 0, 0)
-TogButton.Parent = Toggle
+TogButton.Parent = Tog
 
 local On = false
 
