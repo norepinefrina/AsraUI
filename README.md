@@ -5,7 +5,7 @@ Always meant for mobile
 
 Please keep in mind that we may change the aesthetics of it.
 
-![](https://github.com/Astralic62/AstralicPrototypeUI/assets/140242928/dc287eb7-18ee-469a-96f8-79fff471f866)
+![](https://github.com/Astralic62/AstralicPrototypeUI/assets/140242928/ed46fd28-f969-45a0-b38a-79ac0f604346)
 # Usage
 Load and Create a Interface
 ```lua
