@@ -1,15 +1,11 @@
 # About
-This is a super light (open source & public) version of Astralic UI Library. Our script, Astralic UI, will use this library for "prototype scripts" (knows as "beta ui"). Unoptimised and temporary scripts meant for limited time events.
-
-Always meant for mobile
-
-Please keep in mind that we may change the aesthetics of it.
+Asrua UI is a short example of a roblox ui library!
 
 ![](https://github.com/Astralic62/AstralicPrototypeUI/assets/140242928/ef4d58b8-93a2-434b-963e-a93e20432faf)
 # Usage
 Load and Create a Interface
 ```lua
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Astralic62/AstralicPrototypeUI/main/PrototypeLibrary.lua"))():MakePrototypeLibrary("Astralic Prototype UI")
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ahsrua/AsruaUI/main/sursa.lua"))():MakePrototypeLibrary("Asra UI")
 ```
 Make a Tab
 ```lua
